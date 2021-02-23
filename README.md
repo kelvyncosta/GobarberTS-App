@@ -1,1 +1,1 @@
-# GobarberTS-App
+# GoBarber App in Typescript
